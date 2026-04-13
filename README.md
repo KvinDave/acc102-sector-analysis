@@ -7,7 +7,7 @@
 
 ## 🔗 Product Link / Demo
 📊 **[View the Jupyter Notebook on GitHub](./acc102_sector_analysis.ipynb)**  
-🎬 **[Demo Video](./demo_video_link.md)** 
+🎬 **Demo Video:** (Link will be added after recording) 
 ---
 
 ## 1. Problem & User
@@ -124,8 +124,22 @@ acc102-sector-analysis/
 
 ## 8. AI Disclosure
 
-Claude (Anthropic, claude-sonnet-4-6, accessed April 2025) was used to assist with code structure, chart design, and README formatting. All analytical decisions (metric selection, scoring weights, interpretations) were reviewed and are understood by the author. The data is sourced independently from public financial disclosures.
+ChatGPT was used only for research. All coding, writing, and analytical decisions (metric selection, scoring weights, interpretations) were made solely by the author. The data is sourced independently from public financial disclosures.
 
 ---
+## 📌 Key Insights
+
+- Industrials achieved the highest risk-adjusted performance
+- Technology showed high returns but also high volatility
+- Energy had strong returns but large drawdowns
+- Risk-adjusted metrics provide more reliable investment evaluation than raw returns
+
+---
+
+## 👤 Author
+
+- Name: Davis Otieno
+- Module: ACC102
+- Project Type: Track 2 – GitHub Data Analysis
 
 *ACC102 Mini Assignment · Track 2 · 2nd Semester 2024–25 · XJTLU IBSS*
