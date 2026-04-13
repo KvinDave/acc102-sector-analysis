@@ -7,7 +7,7 @@
 
 ## 🔗 Product Link / Demo
 📊 **[View the Jupyter Notebook on GitHub](./acc102_sector_analysis.ipynb)**  
-🎬 **Demo Video:** (Link will be added after recording) 
+🎬 (https://drive.google.com/file/d/1F08Nb0DzUhOYk6t_AORcFQxzoIExQn6o/view?usp=drive_link) 
 ---
 
 ## 1. Problem & User
